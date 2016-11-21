@@ -9,7 +9,6 @@
     <Grid>
         <StackPanel  VerticalAlignment="Center" HorizontalAlignment="Center">
             <Button Padding="30,10" Content="Начать" VerticalAlignment="Center" HorizontalAlignment="Center" Click="Button_Click"></Button>
-            <Label Content="label" Foreground="Green" Margin="15" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
         </StackPanel>
     </Grid>
 </Window>
